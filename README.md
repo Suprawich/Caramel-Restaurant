@@ -2,7 +2,7 @@
 การติดตั้งโปรแกรม
 1. ติดตั้งโปรแกรม XAMPP ได้ที่ https://www.apachefriends.org/download.html
 2. ดาวน์โหลด และ extract file xampp.zip
-3. นำโฟลเดอร์ xampp ที่ได้ extract แล้ว ไปไว้ในโฟลเดอร์ htdocs
+3. นำโฟลเดอร์ xampp ที่ได้ extract แล้ว ไปไว้ในโฟลเดอร์ htdocs ของ appication XAMPP
 4. เปิดโปรแกรม xampp control panel จากนั้นกด start ที่ Apache และ MySql
 5. ดาวน์โหลด new_application_2.sql
 6. เปิด browser (เช่น google crome)
