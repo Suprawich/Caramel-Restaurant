@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.4"
+  },
+  "name": "app_m",
+  "description": "A simple login with discord button using javascript and express js",
+  "version": "1.0.0",
+  "main": "login.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
