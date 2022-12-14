@@ -1,6 +1,6 @@
 # Caramel-Restaurant
 การติดตั้งโปรแกรม
-1. ติดตั้งโปรแกรม XAMPP ได้ที่ https://www.apachefriends.org/download.html
+1. ติดตั้งโปรแกรม XAMPP ได้ที่ https://www.apachefriends.org/download.html โดยดาวน์โหลดในเวอร์ชัน 8.0.13
 2. ดาวน์โหลด และ extract file xampp.zip
 3. เปิดโปรแกรม xampp control panel เลือกเมนู Manage Servers ที่แถบด้านบน จากนั้นกด start ที่ Apache และ MySql
 4. เปิดโปรแกรม xampp เลือกเมนู Open Application Folder ที่ด้านขวามือ แล้วนำโฟลเดอร์ xampp ที่ได้ extract แล้ว ไปไว้ในโฟลเดอร์ htdocs
